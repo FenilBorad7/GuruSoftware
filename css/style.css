@@ -610,6 +610,7 @@ h6 {
 #services .icon {
   position: absolute;
   left: -10px;
+  color: #0076B3;
   top: calc(50% - 32px);
 }
 
