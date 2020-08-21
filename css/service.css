@@ -74,7 +74,9 @@ element.style {
     padding: 0 18px;
     float: left;
     min-height: 50px;
+
     line-height: 30px;
+
 }
 a:hover, a:active, a:focus {
     color: #0b6bd3;
