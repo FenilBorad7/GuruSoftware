@@ -656,15 +656,21 @@ h6 {
   line-height: 24px;
   margin-bottom: 0;
 }
-
-#why-us {
-  padding: 60px 0;
-  background: #004a99;
+#why-us .containerwu{
+    background-color:  #004a99b0;
 }
+#why-us {
 
+background-image: url("../img/slider-5.jpg");
+/*  background: #004a99;*/
+}
+.section-header{
+  padding-top: 60px;
+}
 #why-us .section-header h3,
 #why-us .section-header p {
   color: #fff;
+    
 }
 
 #why-us .card {
