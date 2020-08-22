@@ -145,6 +145,7 @@ h6 {
   transition: all 0.5s;
   padding: 20px 0;
   background: #fff;
+  opacity:0.8;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
 
@@ -172,8 +173,8 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+ 
+  max-height: 47px;
 }
 
 .main-pages {
