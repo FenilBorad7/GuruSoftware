@@ -656,8 +656,9 @@ h6 {
   line-height: 24px;
   margin-bottom: 0;
 }
-#why-us .containerwu{
+.containerwu{
     background-color:  #004a99b0;
+    padding: 20px;
 }
 #why-us {
 
@@ -665,7 +666,7 @@ background-image: url("../img/slider-5.jpg");
 /*  background: #004a99;*/
 }
 .section-header{
-  padding-top: 60px;
+  padding-top: 40px;
 }
 #why-us .section-header h3,
 #why-us .section-header p {
@@ -890,14 +891,17 @@ background-image: url("../img/slider-5.jpg");
 --------------------------------*/
 
 #testimonials {
-  padding: 60px 0;
+  background-image: url("../img/slider-5.jpg");
+
   box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
 }
 
 #testimonials .section-header {
   margin-bottom: 40px;
 }
-
+#testimonials .section-header h3, #testimonials .testimonial-item p {
+    color: #fff;
+}
 #testimonials .testimonial-item .testimonial-img {
   width: 120px;
   border-radius: 50%;
@@ -915,7 +919,7 @@ background-image: url("../img/slider-5.jpg");
 
 #testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: rgba(0,0,0,.9);
   margin: 0 0 15px 0;
   margin-left: 140px;
 }
