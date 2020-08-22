@@ -17,10 +17,11 @@
 
 svg {
   display: block;
-  overflow: visible;
+ 
 }
 
 .slider-container {
+  overflow: hidden;
   position: relative;
   height: 80%;
   margin:auto;
