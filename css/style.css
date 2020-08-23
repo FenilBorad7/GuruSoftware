@@ -662,7 +662,7 @@ h6 {
 }
 #why-us {
 
-background-image: url("../img/slider-5.jpg");
+background-image: url("../img/chooseus.jpg");
 /*  background: #004a99;*/
 }
 .section-header{
@@ -891,7 +891,7 @@ background-image: url("../img/slider-5.jpg");
 --------------------------------*/
 
 #testimonials {
-  background-image: url("../img/slider-5.jpg");
+  background-image: url("../img/testimonial.jpg");
 
   box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
 }
