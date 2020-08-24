@@ -33,7 +33,12 @@ a {
   color: #007bff;
   transition: 0.5s;
 }
-
+.gq{
+  border-radius: 10rem; background-color: #0076B3; color: black!important;
+}
+.gq:hover{
+  border-radius: 10rem; background-color: #fff; color: black!important;
+}
 a:hover,
 a:active,
 a:focus {
@@ -663,10 +668,12 @@ h6 {
 #why-us {
 
 background-image: url("../img/chooseus.jpg");
+background-size: cover;
 /*  background: #004a99;*/
 }
 .section-header{
   padding-top: 40px;
+
 }
 #why-us .section-header h3,
 #why-us .section-header p {
@@ -892,7 +899,7 @@ background-image: url("../img/chooseus.jpg");
 
 #testimonials {
   background-image: url("../img/testimonial.jpg");
-
+ background-size: cover;
   box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
 }
 
