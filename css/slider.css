@@ -25,8 +25,8 @@
         text-align: center;
       }
 
-      .details h1{
-        font-size: 4em;
+     .details h1{
+        font-size: 3em;
         color: #fff;
       }
 
@@ -92,10 +92,7 @@
         transform: translate(-50%, -50%);
         text-align: center;
       }
-      .details h1{
-        font-size: 3em;
-        color: #fff;
-      }
+      
         .styles_LinkButton__3neir {
 
     border-radius: 10rem;
