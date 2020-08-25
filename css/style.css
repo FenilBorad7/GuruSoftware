@@ -34,10 +34,10 @@ a {
   transition: 0.5s;
 }
 .gq{
-  border-radius: 10rem; background-color: #0076B3; color: black!important;
+  border-radius: 10rem; background-color:#0076B3; color:#fff!important;
 }
 .gq:hover{
-  border-radius: 10rem; background-color: #fff; color: black!important;
+  border-radius: 10rem; background-color: #fff; color:#0076B3!important;
 }
 a:hover,
 a:active,
