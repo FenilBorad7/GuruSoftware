@@ -276,7 +276,7 @@ h6 {
 #Gain .each-icon {
   background-color: #004a99;
   margin-bottom: 35px;  
-  min-height: 450px;
+  min-height: 400px;
   text-align: center; 
   cursor: pointer;
   position: relative;
@@ -311,6 +311,7 @@ h6 {
   font: 700 20px/115% 'Open Sans', sans-serif;
 }
 #Gain .each-icon .icon-text p {
+  text-align: justify;
   color: #fff;
   margin: 0 0 15px;
   font: 400 18px/115% 'Open Sans', sans-serif;
@@ -324,12 +325,12 @@ h6 {
   font-size: 25px;
   position: relative;
   left: -15px;
-  transition: all 0.3s;
+  transition: all 2.5s;
 }
 #Gain .each-icon:hover .icon-text .cta a i {
   opacity: 1;
   left: 0;
-  transition: all 0.3s;
+  transition: all 2.5s;
 }
 #Gain .each-icon .icon-text .cta a:hover i {
   color: #006f65;
@@ -337,12 +338,12 @@ h6 {
 #Gain .each-icon:hover .icon-wrap {
   visibility: hidden;
   opacity: 0;
-  transition: all 0.5s;
+  transition: all 2.5s;
 }
 #Gain .each-icon:hover .icon-text {
   visibility: visible;
   opacity: 1;
-  transition: all 0.5s;
+  transition: all 2.5s;
 }
 /*--------------------------------------------------------------
 # Navigation Menu
